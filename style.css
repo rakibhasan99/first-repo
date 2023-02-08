@@ -14,3 +14,6 @@ p{
     background-color: black;
     text-align: justify;
 }
+.change{
+    background-image: linear-gradient(tomato,lightblue);
+}
