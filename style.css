@@ -1,0 +1,16 @@
+body{
+    background-color: aqua;
+    background-image: url(spaghetti-1932466_960_720.jpg);
+
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+    background-color: gray;
+}
+p{
+    color: white;
+    width: 30%;
+    background-color: black;
+    text-align: justify;
+}
